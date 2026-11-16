@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+backend/db.sqlite3
+backend/.env
+node_modules/
+frontend/dist/
+frontend/coverage/
+.idea/
+.vscode/
+.DS_Store
